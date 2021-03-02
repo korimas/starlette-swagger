@@ -1,0 +1,2 @@
+recursive-include starlette_swagger/static *
+include README.md
