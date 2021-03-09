@@ -9,7 +9,7 @@ def read(fname):
 setup(
     name='starlette_swagger',
     license='BSD',
-    version='0.12',
+    version='0.13',
     author='zpzhou',
     author_email='himoker@163.com',
     url='https://github.com/zpdev/starlette-swagger',
