@@ -54,6 +54,7 @@ class SwaggerUI(object):
                  const ui = SwaggerUIBundle({{
                      url: '{self.openapi.api_url}',
                  """
+        # https: // petstore.swagger.io / v2 / swagger.json
 
         if oauth2_redirect_url:
             html += f"oauth2RedirectUrl: window.location.origin + '{oauth2_redirect_url}',"

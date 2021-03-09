@@ -17,7 +17,7 @@ setup(
     long_description_content_type='text/markdown',
     description='swagger ui for starlette',
     packages=['starlette_swagger'],
-    install_requires=['starlette', 'starlette_openapi', 'starlette_pydantic'],
+    install_requires=['starlette', 'starlette_openapi', 'starlette_pydantic', 'starlette_authentication'],
     zip_safe=False,
     include_package_data=True,
 )
