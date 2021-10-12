@@ -4,6 +4,7 @@
 * starlette_openapi
 * starlette_pydantic
 * starlette_authentication
+* python >= 3.8.5
 
 ## 2. install
 ```shell script
